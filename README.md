@@ -1,3 +1,3 @@
-Doutor em engenharia física. Trabalho com instrumentação e processamento de sinal para medida física: sensores de fibra óptica dentro de células de bateria, e modelos que recuperam o estado interno a partir de tensão, corrente e temperatura de superfície.
+PhD in Engineering Physics. I work on instrumentation and signal processing for physical measurement: fibre-optic sensors inside battery cells, and models that recover the internal state from voltage, current and surface temperature.
 
-Também construo e opero sistemas de gestão em produção.
+I also build and operate management systems in production.
