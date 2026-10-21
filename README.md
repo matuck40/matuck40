@@ -1,5 +1,7 @@
 Ph.D. in Engineering Physics building AI agents that act on real software, with the guardrails in code and in the database rather than in the prompt.
 
+Open to remote AI engineer roles. [LinkedIn](https://www.linkedin.com/in/luccamatuck)
+
 Before that, four years of machine learning on noisy sensor signals (battery virtual sensing, fibre-optic instrumentation).
 
 - [db-enforced-agent-permissions](https://github.com/matuck40/db-enforced-agent-permissions): Postgres RLS as the boundary for an LLM agent, plus a LangGraph tool-calling agent and evals measured on 40 synthetic conversations: a leaked order id gave 2 breaches without guardrails and 0 after a per-conversation scope enforced in the database.
